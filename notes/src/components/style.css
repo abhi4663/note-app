@@ -1,0 +1,20 @@
+a {
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+.notes {
+  background-color: aliceblue;
+  text-align: center;
+  width: 50%;
+  height: 57px;
+  border-radius: 10px;
+  position: relative;
+  left: 20px;
+  top: 10px;
+}
+h1 {
+  text-transform: capitalize;
+}
